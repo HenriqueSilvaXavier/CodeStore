@@ -23,7 +23,7 @@ This project is a e-commerce web application for IT, gamers and design public. P
 - Node.js
 - SQLite
 
-## How to run
+## 🚀 How to run
 
 First, clone the repository in your VSCode with the commands:
 ```cmd
